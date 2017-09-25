@@ -53,7 +53,7 @@ Start by running the following commands from the root directory of this project:
 
 ```bash
 touch .git/hooks/pre-commit
-chmod u+x ./git/hooks/pre-commit
+chmod u+x .git/hooks/pre-commit
 ```
 
 Then copy the following into that file:
